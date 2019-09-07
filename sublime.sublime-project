@@ -1,0 +1,23 @@
+{
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"generate.bat"
+			],
+			"name": "premake-generate",
+			"working_dir": "${project_path}\\_build"
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"tab_size": 2
+	}
+}
