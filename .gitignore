@@ -33,3 +33,7 @@
 *.app
 
 *.sublime-workspace
+*.user
+*.csproj
+*.vcxproj
+*.sln
